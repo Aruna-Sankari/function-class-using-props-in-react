@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+}
+.col{
+    width:25%;
+}
+.card img{
+  width:350px;
+  height:500px;
+}
+.card{
+    margin:12px;
+}
+.card-con {
+    margin-left:90px;
+}
+.con {
+    margin-left:90px;
+}
+.btn{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    margin-left:140px;
+  }
+.btn1{
+    background-color:blue;
+    color:white;
+    padding:3px;
+    font-weight:bold;
+    width:70px;
+    height:40px;
+}
+
+
+
+
