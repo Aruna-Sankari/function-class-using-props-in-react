@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/function-class-using-props-in-react/static/css/main.0c64e2ba.css",
+    "main.js": "/function-class-using-props-in-react/static/js/main.b6666053.js",
+    "static/js/787.e577274b.chunk.js": "/function-class-using-props-in-react/static/js/787.e577274b.chunk.js",
+    "index.html": "/function-class-using-props-in-react/index.html",
+    "main.0c64e2ba.css.map": "/function-class-using-props-in-react/static/css/main.0c64e2ba.css.map",
+    "main.b6666053.js.map": "/function-class-using-props-in-react/static/js/main.b6666053.js.map",
+    "787.e577274b.chunk.js.map": "/function-class-using-props-in-react/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c64e2ba.css",
+    "static/js/main.b6666053.js"
+  ]
+}
